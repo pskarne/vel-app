@@ -3,7 +3,7 @@ pipeline {
 		stages {
 			stage ("one") {
 				steps {
-					echo "This is branch master"
+					echo "This is branch 21q1"
 				}
 			}
 		}
